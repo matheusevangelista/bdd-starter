@@ -2,7 +2,7 @@
 Stack para teste automatizado web, utilizando Cucumber, Capybara e SitePrism.  
 * [Cucumber](https://docs.cucumber.io/)
 * [Capybara](https://github.com/teamcapybara/capybara)
-* [SitePrism](https://github.com/natritmeyer/site_prism)
+* [SitePrism](https://github.com/site-prism/site_prism)
 
 ## Setup
 ### Instalar o RBENV
